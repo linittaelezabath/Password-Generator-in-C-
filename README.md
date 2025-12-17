@@ -21,11 +21,3 @@ It combines letters, numbers, and symbols to improve password strength.
 2. Run the executable  
    ./password_generator
 3. Enter the desired password length
-
-## Learning Outcomes
-- Working with strings
-- Using loops and conditions
-- Understanding random number generation
-- Writing clean C++ console programs
-
-
